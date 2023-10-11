@@ -10,6 +10,7 @@
     <PackageIcon></PackageIcon>
     <Description>Sparkle.Regressor.Client can be used independently in other projects to communicate with Sparkle.Reggresor. This enables seamless integration and interaction with the regression module in diverse applications.</Description>
     <Copyright>© 2023 Norbert Szmigiero™ all rights reserved. </Copyright>
+	  <Authors>norbertszsor</Authors>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageReleaseNotes>Initial relase 1.0.0</PackageReleaseNotes>
   </PropertyGroup>
