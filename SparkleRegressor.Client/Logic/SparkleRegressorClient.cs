@@ -1,6 +1,6 @@
 ﻿using SparkleRegressor.Client.Abstraction;
-using SparkleRegressor.Client.Models;
-using SparkleRegressor.Client.Models.Query;
+using SparkleRegressor.Client.Abstraction.Interfaces;
+using SparkleRegressor.Client.Abstraction.Query;
 using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;

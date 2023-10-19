@@ -1,6 +1,6 @@
-﻿using SparkleRegressor.Client.Models.Query;
+﻿using SparkleRegressor.Client.Abstraction.Query;
 
-namespace SparkleRegressor.Client.Abstraction
+namespace SparkleRegressor.Client.Abstraction.Interfaces
 {
     public interface ISparkleRegressorClient
     {

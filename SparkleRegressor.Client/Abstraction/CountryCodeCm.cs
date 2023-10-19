@@ -1,4 +1,4 @@
-﻿namespace SparkleRegressor.Client.Models
+﻿namespace SparkleRegressor.Client.Abstraction
 {
     public class CountryCodeCm
     {

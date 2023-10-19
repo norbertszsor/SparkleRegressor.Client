@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using SparkleRegressor.Client.Abstraction;
+using SparkleRegressor.Client.Abstraction.Interfaces;
 using SparkleRegressor.Client.Configuration;
 using SparkleRegressor.Client.Logic;
 

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkleRegressor.Client", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{C83FF4E7-1DE9-4C3A-BE97-760749193E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Src.Unit.Tests", "SparkleRegressor.Client.Tests\Src.Unit.Tests.csproj", "{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{38AFC878-1412-4C19-8D07-0FDEBFAE6F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38AFC878-1412-4C19-8D07-0FDEBFAE6F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38AFC878-1412-4C19-8D07-0FDEBFAE6F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{38AFC878-1412-4C19-8D07-0FDEBFAE6F03} = {C83FF4E7-1DE9-4C3A-BE97-760749193E96}
+		{042E1B3C-9960-4FF9-A7F5-7FAB44CC3B22} = {C83FF4E7-1DE9-4C3A-BE97-760749193E96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6560ABAB-ECB8-42EC-B934-02B3A4238C01}
