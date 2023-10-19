@@ -13,6 +13,7 @@
 	  <Authors>norbertszsor</Authors>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageReleaseNotes>Initial relase 1.0.0</PackageReleaseNotes>
+    <Version>$(VersionPrefix)1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
