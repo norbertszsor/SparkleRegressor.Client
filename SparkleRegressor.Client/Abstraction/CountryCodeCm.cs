@@ -4,6 +4,6 @@
     {
         public required string Code { get; set; }
 
-        public string? Subdiv { get; set; }
+        public string? SubDiv { get; set; }
     }
 }

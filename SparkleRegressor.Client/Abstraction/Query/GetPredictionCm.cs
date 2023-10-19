@@ -1,6 +1,4 @@
-﻿using SparkleRegressor.Client.Abstraction;
-
-namespace SparkleRegressor.Client.Abstraction.Query
+﻿namespace SparkleRegressor.Client.Abstraction.Query
 {
     public class GetPredictionCm
     {
@@ -8,7 +6,7 @@ namespace SparkleRegressor.Client.Abstraction.Query
 
         public Dictionary<DateTime, double>? TimeSeriesDict { get; set; }
 
-        public Dictionary<DateTime, double>? PredictionTicks { get; set; }
+        public int? PredictionTicks { get; set; }
 
         public CountryCodeCm? CountryCode { get; set; }
     }
